@@ -1,5 +1,3 @@
 this is a test
 
-THIs is only a test.
-
 THis is the additional text I am testing
